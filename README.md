@@ -12,7 +12,7 @@ Tugas Mandiri Terstruktur — Mata Kuliah **Visualisasi Data dan Informasi**, Pr
 | Tautan | URL |
 |---|---|
 | Live Web Application | |
-| Repositori GitHub | |
+| Repositori GitHub | https://github.com/KingTezet/tugas-vdi |
 | Sumber Data Asli | https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce |
 | Referensi Kode / Proyek | |
 
