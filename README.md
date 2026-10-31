@@ -14,7 +14,7 @@ Tugas Mandiri Terstruktur — Mata Kuliah **Visualisasi Data dan Informasi**, Pr
 | Live Web Application | https://store-analytics-multidbms.streamlit.app/ |
 | Repositori GitHub | https://github.com/KingTezet/tugas-vdi |
 | Sumber Data Asli | https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce |
-| Referensi Kode / Proyek | |
+| Referensi Kode / Proyek | Dikembangkan secara mandiri dari awal dengan bantuan AI, merujuk pada dokumentasi dan repositori resmi:<br>- Streamlit: https://github.com/streamlit/streamlit<br>- Plotly: https://github.com/plotly/plotly.py |
 
 ## 📖 Skenario Bisnis
 
