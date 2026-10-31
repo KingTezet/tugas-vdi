@@ -1,0 +1,22 @@
+# Tema "Emerald" — monokrom minimalis (hitam/abu/putih) dengan aksen emerald.
+[theme]
+base = "dark"
+primaryColor = "#10B981"              # emerald-500 (aksen: tombol, slider, pills aktif)
+backgroundColor = "#0A0A0A"           # hitam bersih
+secondaryBackgroundColor = "#161616"  # kartu / input
+textColor = "#EDEDED"
+font = "sans-serif"
+borderColor = "#262626"
+showWidgetBorder = true
+baseRadius = "0.6rem"
+
+[theme.sidebar]
+backgroundColor = "#111111"
+secondaryBackgroundColor = "#1A1A1A"
+borderColor = "#222222"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true
