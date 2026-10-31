@@ -4,14 +4,14 @@ Tugas Mandiri Terstruktur — Mata Kuliah **Visualisasi Data dan Informasi**, Pr
 
 | | |
 |---|---|
-| **Nama** | _(isi nama lengkap)_ |
-| **NIM** | _(isi NIM)_ |
+| **Nama** | Moch. Sugih Nugraha |
+| **NPM** | 230660121036 |
 
 ## 🔗 Daftar Tautan
 
 | Tautan | URL |
 |---|---|
-| Live Web Application | |
+| Live Web Application | https://store-analytics-multidbms.streamlit.app/ |
 | Repositori GitHub | https://github.com/KingTezet/tugas-vdi |
 | Sumber Data Asli | https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce |
 | Referensi Kode / Proyek | |
